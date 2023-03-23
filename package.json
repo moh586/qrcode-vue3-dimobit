@@ -1,6 +1,6 @@
 {
-  "name": "qrcode-vue3",
-  "version": "1.4.17",
+  "name": "qrcode-vue3-dimobit",
+  "version": "1.4.20",
   "description": "Add a style and an image to your QR code Vue3",
   "main": "lib/index.js",
   "types": "src/index.d.ts",
@@ -63,10 +63,10 @@
     "logo",
     "design"
   ],
-  "author": "Ludovit Scholtz <ludovit@scholtz.sk>, Diadal <info@diadal.com.ng>",
+  "author": "MohamadAli Joneidi <joneidimohamad@gmail.com>, Diadal <info@diadal.com.ng>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scholtz/qrcode-vue3/issues"
+    "url": "https://github.com/moh586/qrcode-vue3-dimobit/issues"
   },
-  "homepage": "https://github.com/scholtz/qrcode-vue3"
+  "homepage": "https://github.com/moh586/qrcode-vue3-dimobit"
 }
