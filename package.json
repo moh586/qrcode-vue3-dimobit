@@ -1,5 +1,5 @@
 {
-  "name": "qr-code-vue3-dimobit",
+  "name": "@mog586/qr-code-vue3-dimobit",
   "version": "1.4.22",
   "description": "Add a style and an image to your QR code Vue3",
   "main": "lib/index.js",
@@ -46,6 +46,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scholtz/qrcode-vue3.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/moh586"
   },
   "keywords": [
     "qr",
